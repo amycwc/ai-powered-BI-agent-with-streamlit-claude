@@ -145,7 +145,7 @@ fact_clickstream(session_id INT PK, customer_id REAL,
                  purchased_flag BOOL,
                  traffic_source TEXT,
                  linked_to_a_campaign_flag BOOL,
-                 campaign_id REAL, aov_category TEXT)
+                 campaign_id REAL)
   -- ~14.5M rows; traffic_source: Organic Search | Paid Search | Social Media |
   --   Email | Direct | Referral
 
