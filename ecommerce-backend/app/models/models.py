@@ -133,7 +133,6 @@ class Clickstream(Base):
     traffic_source = Column(String(100))
     linked_to_a_campaign_flag = Column(Boolean)
     campaign_id = Column(Float)            # nullable int stored as float
-    aov_category = Column(String(50))
 
 
 class Transaction(Base):
