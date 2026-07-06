@@ -232,7 +232,8 @@ The SQLite database contains ~17 million rows across fact and dimension tables m
 ---
 ## Example of AI-powered Business Intelligence Analyst 
 Answer Questions and Understand Insights
-![App screenshot](./assets/01_ai_chat.png)
+
+![App screenshot](./assets/1_ai_chat.png)
 ![App screenshot](./assets/02_dashboard.png)
 ![App screenshot](./assets/03_analytics.png)
 
